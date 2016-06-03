@@ -1,6 +1,6 @@
 # README
 
-**The Traveling Salesman Problem: National Parks Edition** creates the shortest route (by Euclidean distance) between coordinates inputted by the user. For further documentation and instructions, see **'ProjectManual.pdf'**. 
+**The Traveling Salesman Problem: National Parks Edition** creates the shortest route (by Euclidean distance) between coordinates inputted by the user. For further documentation and instructions, see **'NationalPark-TSP.ipynb'**. 
 
 To use this script:
 
