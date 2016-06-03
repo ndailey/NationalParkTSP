@@ -1,11 +1,13 @@
 # README
 
-**The Traveling Salesman Problem: National Parks Edition** creates the shortest route (by Euclidean distance) between coordinates inputted by the user. For further documentation and instructions, see **'NationalPark-TSP.ipynb'**. 
+**The Traveling Salesman Problem: National Parks Edition** creates the shortest route (by Euclidean distance) between coordinates inputted by the user. 
+
+To see this script in action, go to [NationalPark-TSP.ipynb](https://github.com/ndailey/NationalParkTSP/blob/master/NationalPark-TSP.ipynb). 
 
 To use this script:
 
 1. Set up Concorde using the steps outlined in this doc.
-2. Open the 'TSP.py' file in an IDE of your choice (I used [iPython Notebook](https://ipython.org)). 
+2. Open the 'TSP.py' file in an IDE of your choice (I used iPython Notebook). 
 3. In a separate window, open 'ProjectManual.pdf'.
 4. Read through 'ProjectManual.pdf' as you execute the TSP.py script, step-by-step. 
 	a. The script should not be executed all at once. Some intermediate steps require you to work in the terminal. 
