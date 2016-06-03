@@ -1,7 +1,7 @@
 # Author: Naomi Dailey
 # Project: TSP National Parks Edition
 # Date: 15 March 2016
-# Purpose: script that accompanies ProjectManual.pdf instructions (use headers to follow along)
+# Purpose: script that accompanies NationalParks-TSP.ipynb instructions (use headers to follow along)
 
 
 ### Import modules and set directory
