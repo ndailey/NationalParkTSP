@@ -10,7 +10,7 @@ To use this script:
 4. Read through 'ProjectManual.pdf' as you execute the TSP.py script, step-by-step. 
 	a. The script should not be executed all at once. Some intermediate steps require you to work in the terminal. 
 	b. The headers in ProjectManual.pdf coincide with headers in the TSP.py script for you to follow along.
-5. The resulting web map will be located in '/Dailey_FinalProject/Results/TSP_webmap.html'. 
+5. The resulting web map will be located in `/Dailey_FinalProject/Results/TSP_webmap.html`. 
 
 The project requires Python 3.5. Many of the modules and programs used will need to be installed from the terminal. Some modules (such as `numpy` and `pandas`) will require different versions depending on your version of Python. 
 
@@ -61,5 +61,6 @@ If after completing these steps Concorde still does not work, try downloading Co
 
 #### Credits:
 http://davidsjohnson.net/TSPcourse/mac-install-concorde.txt
+
 http://wiki.evilmadscientist.com/Obtaining_a_TSP_solver
 
